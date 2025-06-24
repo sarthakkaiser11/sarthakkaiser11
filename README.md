@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)]
+![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
 <h1 align="center">Hi 👋, I'm Sarthak Maheshwari</h1>
 <h3 align="center">I am a passionate engineering undergrad who wishes to learn and explore new technologies</h3>
@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Web Development and Machine Learning**
 
-- 📫 How to reach me **sarthakmaheshwari525@gmail.com**
+- 📫 How to reach me **sarthakmaheshwari12a@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/13mHTCvZUl3Js8Cm7vz8tBsFuh0sxFA-E/view](https://drive.google.com/file/d/13mHTCvZUl3Js8Cm7vz8tBsFuh0sxFA-E/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/13mHTCvZUl3Js8Cm7vz8tBsFuh0sxFA-E/view](https://drive.google.com/file/d/1D1t1CY2Y4dkxrIz6iwE5JC4zMsZtiLs5/view?usp=drivesdk)
 
 - ⚡ Fun fact **I love Geopolitics**
 
